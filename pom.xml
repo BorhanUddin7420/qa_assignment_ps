@@ -115,10 +115,11 @@
                     <execution>
                         <goals>
                             <goal>integration-test</goal>
+                            <goal>verify</goal>
                         </goals>
                         <configuration>
                             <includes>
-                                <include>**/TC00_MasterRunner.java</include>
+                                <includesFile>**/*Runner.java</includesFile>
                             </includes>
                         </configuration>
                     </execution>

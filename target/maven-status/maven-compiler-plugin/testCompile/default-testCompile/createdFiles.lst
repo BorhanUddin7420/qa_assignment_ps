@@ -1,4 +1,4 @@
-testRunners\TC01_CurrencyCalc.class
-stepDefinitions\CurrencyCalculatorPageSteps.class
 AppHooks\ApplicationHooks.class
+testRunners\TC01_CurrencyCalcRunner.class
 AppHooks\TakeScreenshot.class
+stepDefinitions\CurrencyCalculatorPageSteps.class

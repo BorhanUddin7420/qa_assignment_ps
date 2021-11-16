@@ -20,7 +20,7 @@ import java.nio.file.Paths;
         }
 )
 
-public class TC01_CurrencyCalc {
+public class TC01_CurrencyCalcRunner {
     @BeforeClass
     public static void beforeRun() throws IOException {
         //Create Directory if not exist

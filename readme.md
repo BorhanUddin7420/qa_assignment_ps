@@ -16,11 +16,11 @@ Build Tool: Maven
 
 #### For now, This project have below test casses
 
-1. TC01_CurrencyCalc
+1. TC01_CurrencyCalcRunner
 
 # Build and run individual Test cases with different environment
 
 #### Below are command to run automation script with different environment and individual test cases
 
     mvn test -Denv=<environmentName> -Dtest=<test case name>
-    (ex: mvn test -Denv=local -Dtest=TC01_CurrencyCalc)
+    (ex: mvn test -Denv=local -Dtest=TC01_CurrencyCalcRunner)

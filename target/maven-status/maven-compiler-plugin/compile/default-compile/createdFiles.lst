@@ -1,0 +1,10 @@
+com\qa\managers\PageObjectManager.class
+com\qa\util\ElementUtil.class
+com\qa\enums\EnvironmentType.class
+com\qa\dataProvider\ConfigFileReader.class
+com\qa\enums\DriverType.class
+com\qa\managers\DriverManager$1.class
+com\qa\managers\FileReaderManager.class
+com\qa\managers\DriverManager.class
+com\pages\CurrencyCalcPage.class
+com\qa\util\Xls_Reader.class
